@@ -14,12 +14,12 @@
 - 🌐 Firebase-powered IoT with ESP32
 
 📫 How to reach me:
-- Email: [your.email@example.com]
-- LinkedIn: [https://linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Portfolio/Website: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- Email: [fahmy87arm@gmail.com]
+- LinkedIn: [www.linkedin.com/in/fahmy-almaliki-951b732a5](https://linkedin.com/in/yourname)
+
 
 📊 GitHub Stats:
-![Fahmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+
 
 ---
 
