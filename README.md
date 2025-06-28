@@ -9,7 +9,7 @@
 - 🎮 Computer vision (OpenCV + MediaPipe), automation, and control systems
 
 🔧 Currently working on:
-- 🐓 Smart Cage Monitoring System using Raspberry Pi + ESP32 + RS485
+- 🐓 Smart Cattle Monitoring System using Raspberry Pi + ESP32 + RS485
 - 🖐️ Real-time hand detection with MediaPipe
 - 🌐 Firebase-powered IoT with ESP32
 
