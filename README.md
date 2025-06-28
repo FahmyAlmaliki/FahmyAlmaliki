@@ -18,7 +18,7 @@
 - LinkedIn: [www.linkedin.com/in/fahmy-almaliki-951b732a5](https://linkedin.com/in/yourname)
 
 
-📊 GitHub Stats:
+(📊 GitHub Stats:)
 
 
 ---
