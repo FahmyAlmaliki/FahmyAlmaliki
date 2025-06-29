@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <strong><span style="color:#00CFFF; font-size:22px;">Hello, I'm Fahmy Almaliki</span></strong>
-  </marquee>
+  <img src="https://raw.githubusercontent.com/FahmyAlmaliki/FahmyAlmaliki/main/runningtext.gif" alt="Running Text">
 </p>
+
 
 ### Hi there 👋, I'm Fahmy Almaliki Dwi Aditya
 
