@@ -41,16 +41,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=tokyonight&hide=prs" alt="Fahmy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide=prs" alt="Fahmy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyAlmaliki&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyAlmaliki&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
 
 ---
 
