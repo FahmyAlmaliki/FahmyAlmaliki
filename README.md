@@ -7,7 +7,6 @@
 </p>
 
 
-### Hi there 👋, I'm Fahmy Almaliki Dwi Aditya
 
 🎓 I'm an engineering enthusiast who loves working with **embedded systems**, **IoT**, and **machine learning**.
 
