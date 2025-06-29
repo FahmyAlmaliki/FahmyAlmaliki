@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/CAT.jpg" width="400px" alt="Profile Picture">
+  <img src="https://raw.githubusercontent.com/FahmyAlmaliki/FahmyAlmaliki/main/CAT.jpg" width="400px" alt="Profile Picture">
 </p>
 
 <p align="center">
