@@ -8,7 +8,7 @@
 
 
 
-🎓 I'm an engineering enthusiast who loves working with **embedded systems**, **IoT**, and **machine learning**.
+### 🎓 I'm an engineering enthusiast who loves working with **embedded systems**, **IoT**, and **machine learning**.
 
 🚀 I enjoy building real-world solutions with:
 - 🧠 Raspberry Pi, Arduino, ESP32
@@ -21,7 +21,7 @@
 - 🖐️ Real-time hand detection with MediaPipe
 - 🌐 Firebase-powered IoT with ESP32
 
-🛠️ **Tools & Technologies I Work With**
+### 🛠️ **Tools & Technologies I Work With**
 
 | Category                  | Tools/Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------------|
@@ -32,10 +32,25 @@
 | **Microcontrollers & SBC**| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) |
 | **Computer Vision**       | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white) |
 
-📫 How to reach me:
+
+
+### 📫 How to reach me:
 - Email: [fahmy87arm@gmail.com]
 - LinkedIn: [www.linkedin.com/in/fahmy-almaliki-951b732a5](https://linkedin.com/in/yourname)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=tokyonight&hide=prs" alt="Fahmy's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyAlmaliki&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
