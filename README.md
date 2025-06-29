@@ -33,10 +33,12 @@
 | **Computer Vision**       | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white) |
 
 
-
 ### 📫 How to reach me:
-- Email: [fahmy87arm@gmail.com]
-- LinkedIn: [www.linkedin.com/in/fahmy-almaliki-951b732a5](https://linkedin.com/in/yourname)
+
+[![Email](https://img.shields.io/badge/Email-fahmy87arm@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:fahmy87arm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahmy%20Almaliki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahmy-almaliki-951b732a5)
+[![Instagram](https://img.shields.io/badge/Instagram-@nickname__ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nickname_ai)
+
 
 ### 📊 GitHub Stats
 
