@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo-name/main/assets/profile.png" width="400px" alt="Profile Picture">
+</p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <strong><span style="color:#00CFFF; font-size:22px;">Hello, I'm Fahmy Almaliki</span></strong>
+  </marquee>
+</p>
+
 ### Hi there 👋, I'm Fahmy Almaliki Dwi Aditya
 
 🎓 I'm an engineering enthusiast who loves working with **embedded systems**, **IoT**, and **machine learning**.
