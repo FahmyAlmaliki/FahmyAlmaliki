@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahmyAlmaliki/FahmyAlmaliki/main/runningtext.gif" alt="Running Text">
+  <img src="https://raw.githubusercontent.com/FahmyAlmaliki/FahmyAlmaliki/main/Runningtext.gif" alt="Running Text">
 </p>
 
 
