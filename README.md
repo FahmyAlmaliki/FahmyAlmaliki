@@ -33,11 +33,12 @@
 
 ### 📫 How to reach me:
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahmy-portofolio.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-@nickname__ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nickname_ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahmy%20Almaliki-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fahmyalmaliki](https://www.linkedin.com/in/fahmy-almaliki-951b732a5/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nickname_ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmy-almaliki-951b732a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FahmyAlmaliki)
-[![Email](https://img.shields.io/badge/Email-fahmy87arm@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahmy87arm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahmy87arm@gmail.com)
 
 
 ### 📊 GitHub Stats
