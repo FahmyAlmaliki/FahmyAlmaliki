@@ -55,6 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="(https://github-readme-activity-graph.vercel.app/graph?username=FahmyAlmaliki&theme=dracula" alt="Github Graph" />
+</p>
 
 ---
 
