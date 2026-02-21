@@ -54,6 +54,14 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FahmyAlmaliki&theme=dracula" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FahmyAlmaliki&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahmyAlmaliki&theme=dracula&hide_border=true" />
+</p>
 ----
 
 ✨ *“The best way to learn is by trying.”*  
