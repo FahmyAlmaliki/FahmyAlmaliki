@@ -42,20 +42,18 @@
 
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahmyAlmaliki&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FahmyAlmaliki&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahmyAlmaliki&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FahmyAlmaliki&theme=dracula" />
 </p>
-
 ----
 
 ✨ *“The best way to learn is by trying.”*  
