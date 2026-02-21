@@ -44,21 +44,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide=prs" alt="Fahmy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyAlmaliki&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FahmyAlmaliki&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahmyAlmaliki&theme=dracula" alt="Github Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahmyAlmaliki&theme=dracula&hide_border=true" />
 </p>
-
 ---
 
 ✨ *“The best way to learn is by trying.”*  
