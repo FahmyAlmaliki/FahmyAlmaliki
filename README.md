@@ -42,9 +42,10 @@
 
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyAlmaliki&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -52,12 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyAlmaliki&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahmyAlmaliki&theme=dracula&hide_border=true" />
-</p>
----
+----
 
 ✨ *“The best way to learn is by trying.”*  
